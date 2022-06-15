@@ -16,7 +16,7 @@ const population = getPopulation() as string;
 
 console.log(population.toUpperCase());
 
-console.log(population * 2);
+// console.log(population * 2);
 
 // ----
 
